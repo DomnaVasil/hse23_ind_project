@@ -1,0 +1,14 @@
+# BLASTP 2.9.0+
+# Query: NP_001399526.1 histone-lysine N-methyltransferase 2A isoform 3 [Homo sapiens]
+# Database: methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_001399526.1	WP_015791524.1	26.744	86	50	2	1196	1277	123	199	0.42	31.2
+NP_001399526.1	WP_015791416.1	30.189	53	26	3	1167	1209	109	160	0.87	30.0
+NP_001399526.1	WP_015791466.1	32.787	61	33	2	438	491	358	417	0.93	30.8
+NP_001399526.1	WP_015791466.1	22.727	132	96	3	341	468	734	863	2.1	29.6
+NP_001399526.1	WP_015790931.1	33.333	51	26	2	1958	2008	74	116	2.3	28.1
+NP_001399526.1	WP_048056351.1	27.397	73	53	0	3666	3738	16	88	3.0	28.9
+NP_001399526.1	WP_015790955.1	30.233	43	30	0	2469	2511	149	191	6.3	27.7
+NP_001399526.1	WP_015790766.1	26.667	60	40	1	3857	3916	949	1004	7.8	27.7
+# BLAST processed 1 queries
