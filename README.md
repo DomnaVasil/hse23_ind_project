@@ -1,4 +1,5 @@
 # hse23_ind_project
+## Выполнила Васильева Д.Н.
 ##### Эпи-группа: H3K4me
 ##### Мой ген: KMT2A
 ##### Функция белка: Histone modification write
